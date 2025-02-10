@@ -1,2 +1,2 @@
 # todo_list-
-Todo_list project is based on Django framework used to store the tasks of Dalily life.
+The Todo List App is a web-based application built using Django Python web framework. The app allows users to create, read, update, and delete (CRUD) todo items. Users can add new tasks, mark tasks as completed, and delete tasks
